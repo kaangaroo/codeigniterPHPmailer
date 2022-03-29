@@ -3,8 +3,8 @@
 steps
 
 1. get your phpmailer here https://github.com/PHPMailer/PHPMailer
-2. extract your php mailer rar to third_party folder in your codeigniter!
-[image](https://user-images.githubusercontent.com/38121099/160558086-e2152b80-aea8-4c57-b438-e49199a020d4.png)
+2. extract your php mailer rar to third_party folder in your codeigniter
+![image](https://user-images.githubusercontent.com/38121099/160558086-e2152b80-aea8-4c57-b438-e49199a020d4.png)
 3. create inside the library folder a file named mailme.php and copy the mailme.php
 ![image](https://user-images.githubusercontent.com/38121099/160558149-a6918447-2abf-491f-9568-c3d4ce79f303.png)
 ![image](https://user-images.githubusercontent.com/38121099/160558214-f6bd663d-6f8e-47c1-80dc-a735e5fade3c.png)
